@@ -1,4 +1,4 @@
-### Hi there 👋
+### 往者不可谏，来者犹可追 🏄
 
 
 ![lebronjs's github stats](https://github-readme-stats.vercel.app/api?username=lebronjs&show_icons=true&theme=radical)
